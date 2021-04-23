@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.title{
+    height:80px;
+    width: 100%;
+    background-color: rgba(45, 0, 128, 0.849);
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 15px;
+    letter-spacing: 1px;
+}
